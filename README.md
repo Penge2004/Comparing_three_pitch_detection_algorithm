@@ -1,0 +1,1 @@
+This research project aims to compare the performance of three widely used pitch detection algorithms — YIN, MComb, and Schmitt Trigger — in terms of accuracy, stability, and computational efficiency when analyzing monophonic and polyphonic audio signals.
